@@ -2,10 +2,6 @@
 
 Este repositório é dedicado aos projetos e atividades desenvolvidos durante a disciplina de **Programação Orientada a Objetos (POO)**, cursada na FATEC Ipiranga. O objetivo principal é aplicar os conceitos de encapsulamento, herança, polimorfismo e abstração utilizando a linguagem Java.
 
-* [Sobre a Disciplina](#-sobre-a-disciplina)
-* [Como Compilar e Executar](#-como-compilar-e-executar)
-* [Autor](#-autor)
-
 ---
 
 ## ✏️ Sobre a Disciplina
